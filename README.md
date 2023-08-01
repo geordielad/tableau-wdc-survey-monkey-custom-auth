@@ -26,8 +26,7 @@ taco run Desktop
 The last command should open up Tableau Desktop, with the connector installed.  Now it's time to test it out.
 
 ## Using the connector
-Open Tableau Desktop and select the **TableauCloud_MetadataAPI** connector from the list of possible data sources.  You will be prompted for some information about your Tableau Cloud environment.  
-![User Input Screen](/screenshots/InteractivePhase.png)
+Open Tableau Desktop and select the **Survey Monkey Custom Auth** connector from the list of possible data sources.  You will be prompted for an Access Token from your Survey Monkey account.  
 
 You will need to create a private app in Survey Monkey to define an access Token and the callback to Tableau Desktop:
 
