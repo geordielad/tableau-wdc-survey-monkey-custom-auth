@@ -11,7 +11,7 @@ function getFetchOptions(access_token) {
     'headers': {
       'Accept': 'application/json',
       'Content-Type': 'application/json',
-      'Authorization': 'Bearer ' + access_token //MKGIdImxFYBgyHKOyrFs-PK-k4EsQ4G7YwMDq-1ybfnfUSnMIkPa-tKC.H9LtEWWr4FB5j3Q4spkAEiwucdzQNxbc2uRwg.1HYjYG14v6K6YPzP.GhITPdKf.JZw.HmG'
+      'Authorization': 'Bearer ' + access_token.trimEnd()
     }
   }
 
