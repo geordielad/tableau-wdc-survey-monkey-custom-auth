@@ -7,7 +7,7 @@ Create an app in the [Survey Monkey Developer Site](https://developer.surveymonk
 
 The application should be a private app as this will create the Access Token that will be used by the WDC.
 
-![Survey Monkey App](/documentation.images/Survey-Monkey-App-Settings.png)
+![Survey Monkey App](/documentation/images/Survey-Monkey-App-Settings.png)
 
 ## WDC Setup
 
